@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class CameraFollow360 : MonoBehaviour {
 
 	public Transform player;
